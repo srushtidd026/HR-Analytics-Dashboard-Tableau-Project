@@ -6,7 +6,7 @@ https://public.tableau.com/views/Book2_17741123100520/Dashboard1?:language=en-GB
 
 Objective:-
 To analyze employee data and generate meaningful insights related to:
-Workforce distribution
-Salary structure
-Employee demographics
-Experience and education trends
+Workforce distribution,
+Salary structure,
+Employee demographics,
+Experience and education trends.
