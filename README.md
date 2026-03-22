@@ -1,5 +1,4 @@
 # HR-Analytics-Dashboard-Tableau-Project
-HR Analytics Dashboard built using Tableau Desktop to analyze employee demographics, salary distribution, job roles, and workforce trends for better decision-making.
 This project presents an interactive HR Analytics Dashboard developed using Tableau Desktop. The dashboard provides insights into employee data, helping organizations understand workforce distribution, salary trends, and demographic patterns.
 
 Live Dashboard:-
